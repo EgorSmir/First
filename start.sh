@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "one-two"
+echo "one-two-three"
